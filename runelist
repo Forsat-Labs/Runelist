@@ -1,1 +1,56 @@
-
+{
+  "runeA": [
+    {
+      "id": "97606:7",
+      "name": "DUFB•FORSAT•YES",
+      "symbol": "✅"
+    },
+    {
+      "id": "97639:8",
+      "name": "DUFB•FORSAT•NO",
+      "symbol": "✅"
+    },
+    {
+      "id": "97640:9",
+      "name": "POLL•YES•TOKEN",
+      "symbol": "✅"
+    },
+    {
+      "id": "97642:15",
+      "name": "MARKET•YES•RUNE",
+      "symbol": "✅"
+    },
+    {
+      "id": "97644:9",
+      "name": "PREDICT•YES",
+      "symbol": "✅"
+    }
+  ],
+  "runeB": [
+    {
+      "id": "97639:44",
+      "name": "OPPOSE•NO",
+      "symbol": "❌"
+    },
+    {
+      "id": "97639:45",
+      "name": "AGAINST•NO",
+      "symbol": "❌"
+    },
+    {
+      "id": "97639:46",
+      "name": "NEGATE•NO",
+      "symbol": "❌"
+    },
+    {
+      "id": "97639:47",
+      "name": "REJECT•NO",
+      "symbol": "❌"
+    },
+    {
+      "id": "97639:48",
+      "name": "DENY•NO",
+      "symbol": "❌"
+    }
+  ]
+}
