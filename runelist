@@ -6,51 +6,51 @@
       "symbol": "✅"
     },
     {
-      "id": "97639:8",
-      "name": "DUFB•FORSAT•NO",
+      "id": "98047:69",
+      "name": "SKWLD•FORSAT•YES",
       "symbol": "✅"
     },
     {
-      "id": "97640:9",
-      "name": "POLL•YES•TOKEN",
+      "id": "98550:72",
+      "name": "SKDUG•FORSAT•YES",
       "symbol": "✅"
     },
     {
-      "id": "97642:15",
-      "name": "MARKET•YES•RUNE",
+      "id": "98564:55",
+      "name": "UZRZU•FORSAT•YES",
       "symbol": "✅"
     },
     {
-      "id": "97644:9",
-      "name": "PREDICT•YES",
+      "id": "98589:91",
+      "name": "OIHDS•FORSAT•YES",
       "symbol": "✅"
     }
   ],
   "runeB": [
     {
       "id": "97639:44",
-      "name": "OPPOSE•NO",
+      "name": "JDIZIT•FORSAT•NO",
       "symbol": "❌"
     },
     {
-      "id": "97639:45",
-      "name": "AGAINST•NO",
+      "id": "97650:7",
+      "name": "HBSOA•FORSAT•NO",
       "symbol": "❌"
     },
     {
-      "id": "97639:46",
-      "name": "NEGATE•NO",
+      "id": "98858:205",
+      "name": "CFSSC•FORSAT•NO",
       "symbol": "❌"
     },
     {
-      "id": "97639:47",
-      "name": "REJECT•NO",
+      "id": "98564:54",
+      "name": "OIPIG•FORSAT•NO",
       "symbol": "❌"
     },
     {
-      "id": "97639:48",
-      "name": "DENY•NO",
-      "symbol": "❌"
-    }
-  ]
+      "id": "98858:204",
+      "name": "WEDES•FORSAT•NO",
+      "symbol": "❌"
+    }
+  ]
 }
