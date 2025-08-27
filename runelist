@@ -3,54 +3,54 @@
     {
       "id": "97606:7",
       "name": "DUFB•FORSAT•YES",
-      "symbol": "✅"
+      "symbol": "👍"
     },
     {
       "id": "98047:69",
       "name": "SKWLD•FORSAT•YES",
-      "symbol": "✅"
+      "symbol": "👍"
     },
     {
       "id": "98550:72",
       "name": "SKDUG•FORSAT•YES",
-      "symbol": "✅"
+      "symbol": "👍"
     },
     {
       "id": "98564:55",
       "name": "UZRZU•FORSAT•YES",
-      "symbol": "✅"
+      "symbol": "👍"
     },
     {
       "id": "98589:91",
       "name": "OIHDS•FORSAT•YES",
-      "symbol": "✅"
+      "symbol": "👍"
     }
   ],
   "runeB": [
     {
       "id": "97639:44",
       "name": "JDIZIT•FORSAT•NO",
-      "symbol": "❌"
+      "symbol": "👎"
     },
     {
       "id": "97650:7",
       "name": "HBSOA•FORSAT•NO",
-      "symbol": "❌"
+      "symbol": "👎"
     },
     {
       "id": "98858:205",
       "name": "CFSSC•FORSAT•NO",
-      "symbol": "❌"
+      "symbol": "👎"
     },
     {
       "id": "98564:54",
       "name": "OIPIG•FORSAT•NO",
-      "symbol": "❌"
+      "symbol": "👎"
     },
     {
       "id": "98858:204",
       "name": "WEDES•FORSAT•NO",
-      "symbol": "❌"
+      "symbol": "👎"
     }
   ]
 }
