@@ -1,16 +1,6 @@
 {
   "runeA": [
     {
-      "id": "97606:7",
-      "name": "DUFB•FORSAT•YES",
-      "symbol": "👍"
-    },
-    {
-      "id": "98047:69",
-      "name": "SKWLD•FORSAT•YES",
-      "symbol": "👍"
-    },
-    {
       "id": "98550:72",
       "name": "SKDUG•FORSAT•YES",
       "symbol": "👍"
@@ -27,16 +17,6 @@
     }
   ],
   "runeB": [
-    {
-      "id": "97639:44",
-      "name": "JDIZIT•FORSAT•NO",
-      "symbol": "👎"
-    },
-    {
-      "id": "97650:7",
-      "name": "HBSOA•FORSAT•NO",
-      "symbol": "👎"
-    },
     {
       "id": "98858:205",
       "name": "CFSSC•FORSAT•NO",
