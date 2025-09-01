@@ -14,6 +14,11 @@
       "id": "98589:91",
       "name": "OIHDS•FORSAT•YES",
       "symbol": "👍"
+    },
+    {
+      "id": "98047:69",
+      "name": "SKWLD•FORSAT•YES",
+      "symbol": "👍"
     }
   ],
   "runeB": [
@@ -30,6 +35,11 @@
     {
       "id": "98858:204",
       "name": "WEDES•FORSAT•NO",
+      "symbol": "👎"
+    },
+    {
+      "id": "97650:7",
+      "name": "HBSOA•FORSAT•NO",
       "symbol": "👎"
     }
   ]
