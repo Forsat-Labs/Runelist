@@ -1,46 +1,106 @@
 {
-  "runeA": [
-    {
-      "id": "98550:72",
-      "name": "SKDUG•FORSAT•YES",
-      "symbol": "👍"
-    },
-    {
-      "id": "98564:55",
-      "name": "UZRZU•FORSAT•YES",
-      "symbol": "👍"
-    },
-    {
-      "id": "98589:91",
-      "name": "OIHDS•FORSAT•YES",
-      "symbol": "👍"
-    },
-    {
-      "id": "98713:10",
-      "name": "SKWLD•FORSAT•YES",
-      "symbol": "👍"
-    }
-  ],
-  "runeB": [
-    {
-      "id": "98858:205",
-      "name": "CFSSC•FORSAT•NO",
-      "symbol": "👎"
-    },
-    {
-      "id": "98564:54",
-      "name": "OIPIG•FORSAT•NO",
-      "symbol": "👎"
-    },
-    {
-      "id": "98858:204",
-      "name": "WEDES•FORSAT•NO",
-      "symbol": "👎"
-    },
-    {
-      "id": "98597:23",
-      "name": "HBSOA•FORSAT•NO",
-      "symbol": "👎"
-    }
-  ]
-}
+    "runeA": [
+      {
+        "id": "98597:24",
+        "name": "YCDYD•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "98589:91",
+        "name": "OIHDS•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "99155:53",
+        "name": "QPAGX•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "99155:54",
+        "name": "NUGSR•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "98957:1",
+        "name": "BHFGV•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "98937:101",
+        "name": "LIPOK•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "98858:206",
+        "name": "WEDFS•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "98796:221",
+        "name": "AAAF•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "98734:3",
+        "name": "AAAC•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "98688:12",
+        "name": "SAWEQ•FORSAT•YES",
+        "symbol": "👍"
+      }
+    ],
+    "runeB": [
+      {
+        "id": "99345:463",
+        "name": "YOMPA•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "99155:51",
+        "name": "QOPXS•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "99155:52",
+        "name": "NUSDF•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "99000:5",
+        "name": "EZSSH•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "98995:15",
+        "name": "RERDS•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "98995:16",
+        "name": "EFDHD•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "98957:2",
+        "name": "BGFHV•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "98937:100",
+        "name": "LPIKN•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "98688:13",
+        "name": "QWSQS•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "98597:23",
+        "name": "SCXSC•FORSAT•NO",
+        "symbol": "👎"
+      }
+    ]
+  }
