@@ -46,6 +46,26 @@
         "symbol": "👍"
       },
       {
+        "id": "99458:150",
+        "name": "LAGRK•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "99345:466",
+        "name": "JEWSA•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "99458:149",
+        "name": "HDLIA•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
+        "id": "99345:465",
+        "name": "YOREF•FORSAT•YES",
+        "symbol": "👍"
+      },
+      {
         "id": "98688:12",
         "name": "SAWEQ•FORSAT•YES",
         "symbol": "👍"
@@ -95,6 +115,26 @@
       {
         "id": "98688:13",
         "name": "QWSQS•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "99458:147",
+        "name": "LAUDC•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "98828:150",
+        "name": "SIUADH•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "98858:204",
+        "name": "WEDES•FORSAT•NO",
+        "symbol": "👎"
+      },
+      {
+        "id": "99458:148",
+        "name": "HDGDF•FORSAT•NO",
         "symbol": "👎"
       },
       {
